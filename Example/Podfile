@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'FHXAnyFormatProtocol_Example' do
+  pod 'FHXAnyFormatProtocol', :path => '../'
+
+  target 'FHXAnyFormatProtocol_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end

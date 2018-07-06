@@ -1,0 +1,6 @@
+framework module FHXAnyFormatProtocol {
+  umbrella header "FHXAnyFormatProtocol-umbrella.h"
+
+  export *
+  module * { export * }
+}

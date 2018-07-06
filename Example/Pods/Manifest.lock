@@ -1,0 +1,16 @@
+PODS:
+  - FHXAnyFormatProtocol (0.1.0)
+
+DEPENDENCIES:
+  - FHXAnyFormatProtocol (from `../`)
+
+EXTERNAL SOURCES:
+  FHXAnyFormatProtocol:
+    :path: ../
+
+SPEC CHECKSUMS:
+  FHXAnyFormatProtocol: 8b668dea25eee859a35e3be4c2a0c9feacba6043
+
+PODFILE CHECKSUM: cf9de5431df183024e84db576629d552d9d68699
+
+COCOAPODS: 1.4.0
